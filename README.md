@@ -15,6 +15,10 @@
     </a>
 </p>
 
+Stinky nasty colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StinkyNasty/diffusers/blob/main/Stable_Diffusion_with_%F0%9F%A7%A8_diffusers.ipynb)
+
+
+
 🤗 Diffusers provides pretrained diffusion models across multiple modalities, such as vision and audio, and serves
 as a modular toolbox for inference and training of diffusion models.
 
